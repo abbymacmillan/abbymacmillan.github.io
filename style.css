@@ -1,0 +1,42 @@
+* {
+    background-color:#909f50;
+    font-family: arial;
+    color: whitesmoke;
+}
+.header {
+    width: 50%;
+    margin-left: 2%;
+}
+.about-me {
+    display: flex;
+    justify-content: center;
+}
+.about-me-text {
+    display: grid;
+    align-content: center;
+    width: 30%;
+    font-size: 16pt;
+    margin-left: 8%;
+}
+.skills {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.skills-text {
+    display: grid;
+    align-content: center;
+    width: 30%;
+    font-size: 16pt;
+}
+.divider {
+    width: 70%;
+    margin-left: 10%;
+}
+.contact-links {
+    display: flex;
+    justify-content: center;
+}
+.citypic {
+    border-radius: 10%;
+}
